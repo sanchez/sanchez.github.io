@@ -237,7 +237,7 @@ body {
     box-shadow: 10px 10px 10px gray; }
   
   h1, h2, h3 {
-    color: #49075E;
+    color: #FF6138;
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em; }
   
@@ -245,7 +245,7 @@ body {
     color: #000; }
   
   h3::first-letter {
-    color: #49075E; }
+    color: #FF6138; }
   
   .align-right {
     text-align: right; }
@@ -268,11 +268,11 @@ body {
     -webkit-border-radius: 0.25em;
     -moz-border-radius: 0.25em;
     border-radius: 0.25em;
-    background-color: #49075E; }
+    background-color: #FF6138; }
   
   .button-outline {
     color: #fff;
-    background-color: #49075E;
+    background-color: #FF6138;
     text-decoration: none;
     border-style: solid;
     border-width: 0.1em;
